@@ -1,11 +1,12 @@
 # Decision-tree :zap:
-
-## Description ##
+ 
+## Description ## :book:
 
 
 A simple decision tree to practice AI. The model try to guess the mile per galon of a car depending on different data. 
 
-## Data ##
+
+## Data ## :bar_chart:
 
 * mpg (miles per galon) / continuous
 * cylindres / multi-valued discrete
